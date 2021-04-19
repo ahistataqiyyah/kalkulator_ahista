@@ -1,0 +1,15 @@
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\bin\Debug\netcoreapp3.1\Kalkulator_ahista.exe
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\bin\Debug\netcoreapp3.1\Kalkulator_ahista.deps.json
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\bin\Debug\netcoreapp3.1\Kalkulator_ahista.runtimeconfig.json
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\bin\Debug\netcoreapp3.1\Kalkulator_ahista.runtimeconfig.dev.json
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\bin\Debug\netcoreapp3.1\Kalkulator_ahista.dll
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\bin\Debug\netcoreapp3.1\Kalkulator_ahista.pdb
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.csprojAssemblyReference.cache
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.Form1.resources
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.csproj.GenerateResource.cache
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.AssemblyInfoInputs.cache
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.AssemblyInfo.cs
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.csproj.CoreCompileInputs.cache
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.dll
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.pdb
+D:\UKK\Kalkulator_ahista\Kalkulator_ahista\obj\Debug\netcoreapp3.1\Kalkulator_ahista.genruntimeconfig.cache
